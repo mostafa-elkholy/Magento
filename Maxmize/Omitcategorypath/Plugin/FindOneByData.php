@@ -6,7 +6,7 @@ use Magento\Framework\App\Config\ScopeConfigInterface;
 
 /**
  * Class FindOneByData
- * @package Aureatelabs\DemoModule\Plugin
+ * @package Maxmize\Omitcategorypath\Plugin
  */
 class FindOneByData
 {
