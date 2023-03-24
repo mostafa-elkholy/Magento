@@ -7,7 +7,7 @@ Upload files to app/code
 
 #Enable module 
 
-php bin/magento module:enable Sharpeningservices_MailAttachment;
+php bin/magento module:enable Maxmize_Omitcategorypath;
 
 #Upgrade module 
 
